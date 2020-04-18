@@ -1,0 +1,19 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "main": "app1.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oferrozenbaum/node3-weather-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oferrozenbaum/node3-weather-website/issues"
+  },
+  "homepage": "https://github.com/oferrozenbaum/node3-weather-website#readme",
+  "description": ""
+}
